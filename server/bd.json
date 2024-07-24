@@ -1,0 +1,113 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "juan",
+      "apellido": "gomez",
+      "documento": 123456,
+      "tipo": 1,
+      "email": "juan@gmail.com",
+      "telefono": "3185788433",
+      "direccion": "calle 12"
+    },
+    {
+      "id": "69d4",
+      "nombre": "qeqe",
+      "apellido": "wewewq",
+      "correo": "wwewqeewe@erwer",
+      "num_doc": "weqe",
+      "direccion": "erwer"
+    },
+    {
+      "id": "68d6",
+      "nombre": "m´¿'l'l'l'l",
+      "apellido": "fsdf",
+      "correo": "fsddfsdf@grgdf",
+      "num_doc": "dfsdfsd",
+      "direccion": "fgdfg"
+    },
+    {
+      "id": "3acb",
+      "nombre": "Olga Dayana",
+      "apellido": "Caro Marin",
+      "correo": "marinfabian31@gmai.com",
+      "num_doc": "120435004",
+      "direccion": "cr25433#"
+    },
+    {
+      "id": "f3a0",
+      "nombre": "santiago",
+      "apellido": "caro",
+      "correo": "marinfabian31@gmai.com",
+      "num_doc": "10903406567",
+      "direccion": "cr25433#"
+    },
+    {
+      "id": "9ead",
+      "nombre": "Ana",
+      "apellido": "Lucia",
+      "correo": "marinfabian31@gmai.com",
+      "num_doc": "20391204356",
+      "direccion": "cr25433#",
+      "telefono": "377232323"
+    },
+    {
+      "id": "c054",
+      "nombre": "hola",
+      "apellido": "wodow",
+      "correo": "3213@fdfed",
+      "num_doc": "212212",
+      "direccion": "23123",
+      "telefono": "123123",
+      "tip_doc": "Cedula Cidadana"
+    },
+    {
+      "id": "81de",
+      "nombre": "jsdasd",
+      "apellido": "wreqwwq",
+      "correo": "eqwewqe@fdfdfd",
+      "num_doc": "wqeqwedqwe",
+      "direccion": "weqweqw",
+      "telefono": "eqwewqe",
+      "tip_doc": "Cedula Cidadana"
+    },
+    {
+      "id": "7f54",
+      "nombre": "o",
+      "apellido": "o",
+      "correo": "ottt@gmail.com",
+      "num_doc": "o",
+      "direccion": "o",
+      "telefono": "o",
+      "tip_doc": "Cedula Cidadana"
+    },
+    {
+      "id": "1b0d",
+      "nombre": "we",
+      "apellido": "ewef",
+      "correo": "marinfabian31@gmai.com",
+      "num_doc": "erwer",
+      "direccion": "fsdfsdf",
+      "telefono": "erwre",
+      "tip_doc": "Pasaporte"
+    }
+  ],
+  "doc": [
+    {
+      "id": 1,
+      "tipo": " Cedula Cidadana"
+    },
+    {
+      "id": 2,
+      "tipo": " Cedula Extranjera"
+    },
+    {
+      "id": 3,
+      "tipo": " Pasaporte"
+    },
+    {
+      "id": 4,
+      "tipo": " documento"
+    }
+  ]
+}
